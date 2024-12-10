@@ -1,5 +1,7 @@
 Team-1
 
+Here is an example: https://github.com/othneildrew/Best-README-Template and https://github.com/MontMor4/A-Star-algorithm 
+
 Using Vite framework: https://vite.dev/guide/
 
 npm create vite@latest
