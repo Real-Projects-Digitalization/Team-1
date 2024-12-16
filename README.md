@@ -77,7 +77,7 @@ Explore every detail of **Invero** through our comprehensive documentation and w
    - [KPIs for Success](#)  
    - [Measuring User Adoption](#)  
 
-*Find all documentation in our [GitHub Wiki]([https://github.com/your-repo/wiki](https://github.com/Real-Projects-Digitalization/Team-1/wiki).*  
+*Find all documentation in our [GitHub Wiki]([https://github.com/Real-Projects-Digitalization/Team-1/wiki])*  
 
 ---
 
