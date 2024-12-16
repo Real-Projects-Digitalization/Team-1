@@ -84,14 +84,11 @@ Explore every detail of **Invero** through our comprehensive documentation and w
 ## 🛠️ Getting Started  
 
 ### Prerequisites  
-This project is currently visualized in Sigma. Future development will use [React.js](https://reactjs.org/) and a backend email API.  
+This project is currently visualized in Figma. Future development will use 
 
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-repo/invero.git  
-   ```  
+1. Name of the tool
 
-2. Check out the Sigma design prototype [here](#link-to-prototype).  
+2. Check out the Figma design prototype [here](https://www.figma.com/design/3pvOTD5bhQXdYNveVcpCMk/Team-1---Invero?node-id=0-1&p=f&t=tKciDVEZdgnpfeka-0).  
 
 ---
 
@@ -123,8 +120,6 @@ We welcome feedback and contributions to make **Invero** the best it can be! Ple
 
 For questions, feedback, or collaborations:  
 - **Email**: contact@invero.com  
-- **Twitter**: [@InveroMail](https://twitter.com/InveroMail)  
-
 ---
 
 Experience the **future of email** with Invero.  
