@@ -13,9 +13,118 @@ Need: NodeJs to run the application
 
 Home Link Test: https://github.com/Real-Projects-Digitalization/Team-1/wiki 
 
-Problem : 
 
-Solution: 
+**Invero**
 
-Business Plan: 
 
+# ✉️ INVERO - The Future of Email Management  
+
+**Inbox Verified. Inbox Simplified.**  
+
+In today’s digital world, our email inboxes are overwhelmed with messages from countless services—social networks, online stores, newsletters—causing clutter, spam, and privacy risks. But what if you could encapsulate every digital ecosystem with simplicity and security?  
+
+That’s why we created **Invero**, a revolutionary email service designed to bring order, security, and privacy to your inbox.  
+
+---
+
+## 🌟 Why Invero?  
+
+Using different emails for different services is highly recommended—just like using unique passwords. It enhances privacy, reduces risks from data breaches, and keeps your online presence secure. But managing multiple email addresses is complicated and impractical.  
+
+**Invero makes this essential practice simple and seamless:**  
+- **Generate Unique Aliases**: Create dedicated email aliases for every website or service you use.  
+- **Automatic Organization**: Emails are sorted into dedicated folders, reducing clutter and keeping your inbox organized.  
+- **Enhanced Security**: If a service is compromised, block the affected alias without disrupting the rest of your inbox.  
+- **Phishing Protection**: Spot unexpected messages and phishing attempts easily, while keeping your primary email private.  
+
+**The email format hasn’t changed since its inception in the last millennium. It’s time for an upgrade.**  
+With Invero, experience secure and compartmentalized email management—effortlessly.  
+
+---
+
+## 🚀 Features  
+
+- **Alias Email Management**: Simplify online privacy by using unique emails for each service.  
+- **Automatic Categorization**: Emails are neatly organized into folders for a clutter-free experience.  
+- **Data Breach Containment**: Quickly disable compromised aliases to contain risks.  
+- **Enhanced Privacy**: Keep your primary email address private and secure.  
+- **User-Friendly Interface**: A clean and intuitive web interface for hassle-free management (visualized in Sigma).  
+
+---
+
+## 📚 Documentation  
+
+Explore every detail of **Invero** through our comprehensive documentation and wikis.  
+
+### Key Wikis:  
+1. **Vision & Concept**:  
+   - [The Problem with Email Today](#)  
+   - [How Invero Revolutionizes Email Management](#)  
+
+2. **Market & Competitor Analysis**:  
+   - [Competitor Landscape Overview](#)  
+   - [Our Differentiators](#)  
+
+3. **Development Process**:  
+   - [Our Technology Stack](#)  
+   - [Current Progress (Sigma Visualization)](#)  
+
+4. **Stakeholders & Research**:  
+   - [User Insights from Interviews](#)  
+   - [Stakeholder Expectations](#)  
+
+5. **Sustainability & Impact**:  
+   - [KPIs for Success](#)  
+   - [Measuring User Adoption](#)  
+
+*Find all documentation in our [GitHub Wiki](https://github.com/your-repo/wiki).*  
+
+---
+
+## 🛠️ Getting Started  
+
+### Prerequisites  
+This project is currently visualized in Sigma. Future development will use [React.js](https://reactjs.org/) and a backend email API.  
+
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/your-repo/invero.git  
+   ```  
+
+2. Check out the Sigma design prototype [here](#link-to-prototype).  
+
+---
+
+## 🌟 Vision for the Future  
+
+Invero represents a paradigm shift in email communication.  
+- **Simplify email management** for the digital age.  
+- **Empower users** to take control of their online privacy.  
+- **Reinvent email functionality** for the 21st century.  
+
+---
+
+## 🌍 Sustainability & Responsibility  
+
+We are committed to measurable impact:  
+- **User Growth Metrics**: Adoption rates and active users.  
+- **Security Insights**: Number of compromised aliases blocked.  
+- **Organization Benefits**: Clutter reduction and time savings.  
+
+---
+
+## 🖥️ Contributing  
+
+We welcome feedback and contributions to make **Invero** the best it can be! Please review our [Contributing Guidelines](#) and [Code of Conduct](#) before submitting.  
+
+---
+
+## 📞 Contact  
+
+For questions, feedback, or collaborations:  
+- **Email**: contact@invero.com  
+- **Twitter**: [@InveroMail](https://twitter.com/InveroMail)  
+
+---
+
+Experience the **future of email** with Invero.  
