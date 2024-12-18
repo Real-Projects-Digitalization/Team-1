@@ -95,11 +95,11 @@ We are committed to measurable impact:
 ---
 
 ## The Team
-                      Wolfgang Hilzenbecher
-                      Victor Mont’ Mor 
-                      Vincent Schmid   
-                      Bejane Lushka                   
-                      Philipp Prell
+Wolfgang Hilzenbecher
+Victor Mont’ Mor 
+Vincent Schmid   
+Bejane Lushka       
+Philipp Prell
 
 
 Experience the **future of email** with Invero.  
