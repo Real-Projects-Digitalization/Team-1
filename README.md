@@ -94,17 +94,13 @@ We are committed to measurable impact:
 
 ---
 
-## 🖥️ Contributing  
+## The Team
+                      Wolfgang Hilzenbecher
+                      Victor Mont’ Mor 
+                      Vincent Schmid   
+                      Bejane Lushka                   
+                      Philipp Prell
 
-We welcome feedback and contributions to make **Invero** the best it can be! Please review our [Contributing Guidelines](#) and [Code of Conduct](#) before submitting.  
-
----
-
-## 📞 Contact  
-
-For questions, feedback, or collaborations:  
-- **Email**: contact@invero.com  
----
 
 Experience the **future of email** with Invero.  
 
