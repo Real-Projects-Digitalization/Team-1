@@ -1,5 +1,6 @@
 **Invero**
 
+![Pitch Slogan Screenshot](https://github.com/user-attachments/assets/3bd92a9a-874d-479b-888a-15b183c61139)
 
 # ✉️ INVERO - The Future of Email Management  
 
