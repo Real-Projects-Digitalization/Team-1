@@ -52,7 +52,7 @@ Explore every detail of **Invero** through our comprehensive documentation and w
 
 3. **Development Process**:  
    - [Our Technology Stack](#)  
-   - [Current Progress (Sigma Visualization)](#)  
+   - [Current Progress (Figma Visualization)](#)  
 
 4. **Stakeholders & Research**:  
    - [User Insights from Interviews](#)  
