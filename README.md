@@ -6,6 +6,8 @@
 
 **Inbox Verified. Inbox Simplified.**  
 
+## The Problem 
+
 In today’s digital world, our email inboxes are overwhelmed with messages from countless services—social networks, online stores, newsletters—causing clutter, spam, and privacy risks. But what if you could encapsulate every digital ecosystem with simplicity and security?  
 
 That’s why we created **Invero**, a revolutionary email service designed to bring order, security, and privacy to your inbox.  
@@ -37,43 +39,18 @@ With Invero, experience secure and compartmentalized email management—effortle
 
 ---
 
+## 🛠️ The Prototype 
+
+This project is currently visualized in Figma.
+
+Check out the Figma design prototype [here](https://www.figma.com/design/3pvOTD5bhQXdYNveVcpCMk/Team-1---Invero?node-id=0-1&p=f&t=tKciDVEZdgnpfeka-0).  
+
+---
 ## 📚 Documentation  
 
 Explore every detail of **Invero** through our comprehensive documentation and wikis.  
 
-### Key Wikis:  
-1. **Vision & Concept**:  
-   - [The Problem with Email Today](#)  
-   - [How Invero Revolutionizes Email Management](#)  
-
-2. **Market & Competitor Analysis**:  
-   - [Competitor Landscape Overview](#)  
-   - [Our Differentiators](#)  
-
-3. **Development Process**:  
-   - [Our Technology Stack](#)  
-   - [Current Progress (Figma Visualization)](#)  
-
-4. **Stakeholders & Research**:  
-   - [User Insights from Interviews](#)  
-   - [Stakeholder Expectations](#)  
-
-5. **Sustainability & Impact**:  
-   - [KPIs for Success](#)  
-   - [Measuring User Adoption](#)  
-
 *Find all documentation in our [GitHub Wiki](https://github.com/Real-Projects-Digitalization/Team-1/wiki)*  
-
----
-
-## 🛠️ Getting Started  
-
-### Prerequisites  
-This project is currently visualized in Figma. Future development will use 
-
-1. Name of the tool
-
-2. Check out the Figma design prototype [here](https://www.figma.com/design/3pvOTD5bhQXdYNveVcpCMk/Team-1---Invero?node-id=0-1&p=f&t=tKciDVEZdgnpfeka-0).  
 
 ---
 
@@ -83,15 +60,6 @@ Invero represents a paradigm shift in email communication.
 - **Simplify email management** for the digital age.  
 - **Empower users** to take control of their online privacy.  
 - **Reinvent email functionality** for the 21st century.  
-
----
-
-## 🌍 Sustainability & Responsibility  
-
-We are committed to measurable impact:  
-- **User Growth Metrics**: Adoption rates and active users.  
-- **Security Insights**: Number of compromised aliases blocked.  
-- **Organization Benefits**: Clutter reduction and time savings.  
 
 ---
 
@@ -107,6 +75,11 @@ Philipp Prell
 
 Experience the **future of email** with Invero.  
 
+
+
+
+
+OLD DRAFT
 
 Team-1
 
