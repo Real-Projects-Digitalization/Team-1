@@ -14,7 +14,7 @@ That’s why we created **Invero**, a revolutionary email service designed to br
 
 ---
 
-## 🌟 Why Invero?  
+## Why Invero?  
 
 Using different emails for different services is highly recommended—just like using unique passwords. It enhances privacy, reduces risks from data breaches, and keeps your online presence secure. But managing multiple email addresses is complicated and impractical.  
 
@@ -29,7 +29,7 @@ With Invero, experience secure and compartmentalized email management—effortle
 
 ---
 
-## 🚀 Features  
+## Features  
 
 - **Alias Email Management**: Simplify online privacy by using unique emails for each service.  
 - **Automatic Categorization**: Emails are neatly organized into folders for a clutter-free experience.  
@@ -39,14 +39,14 @@ With Invero, experience secure and compartmentalized email management—effortle
 
 ---
 
-## 🛠️ The Prototype 
+## The Prototype 
 
 This project is currently visualized in Figma.
 
 Check out the Figma design prototype [here](https://www.figma.com/design/3pvOTD5bhQXdYNveVcpCMk/Team-1---Invero?node-id=0-1&p=f&t=tKciDVEZdgnpfeka-0).  
 
 ---
-## 📚 Documentation  
+## Documentation  
 
 Explore every detail of **Invero** through our comprehensive documentation and wikis.  
 
@@ -54,7 +54,7 @@ Explore every detail of **Invero** through our comprehensive documentation and w
 
 ---
 
-## 🌟 Vision for the Future  
+## Vision for the Future  
 
 Invero represents a paradigm shift in email communication.  
 - **Simplify email management** for the digital age.  
