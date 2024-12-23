@@ -35,7 +35,7 @@ With Invero, experience secure and compartmentalized email management—effortle
 - **Automatic Categorization**: Emails are neatly organized into folders for a clutter-free experience.  
 - **Data Breach Containment**: Quickly disable compromised aliases to contain risks.  
 - **Enhanced Privacy**: Keep your primary email address private and secure.  
-- **User-Friendly Interface**: A clean and intuitive web interface for hassle-free management (visualized in Sigma).  
+- **User-Friendly Interface**: A clean and intuitive web interface for hassle-free management (visualized in Figma).  
 
 ---
 
